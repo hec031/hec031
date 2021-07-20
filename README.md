@@ -3,6 +3,11 @@
 - 🌱 I’m currently learning anything and anything. I'm always willing to learn something new.
 - 💞️ I’m looking to collaborate on anyone that wants to work with me or thinks I can help them.
 - 📫 Best way to reach me is via my Accretion Studios Email, which is accretionstudios001@gmail.com
+- You can also reach me via my LinkedIn profile here - https://www.linkedin.com/in/hector-serrano-56b943208/
+- You can also check out my YouTube Channel here - https://www.youtube.com/channel/UCP4LD6AJ_HmKL8Ri0-pgWZg
+- My Instagram is - https://www.instagram.com/accretion_studios/
+- My twitter is - https://twitter.com/Accretion001
+- My Facebook is - https://www.facebook.com/Accretionstudios01
 
 - I've been a Unity developer for over 4 years. I have participated in the Global World Jam (https://globalgamejam.org/2019/games/last-programmer) 
 - on a project called "The Last Programmer" and the Orlando Mega Health Jam (http://healthgamejam.com/) on a project named "Fluid".
